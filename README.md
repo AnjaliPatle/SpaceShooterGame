@@ -11,3 +11,5 @@ https://stoic-hypatia-d10d9e.netlify.app/
 
 <h4>If you want to run it on your machine, use live-server to disable CORS error.</h4>
 
+
+<img src="https://github.com/AnjaliPatle/SpaceShooterGame/blob/master/game.PNG" >
